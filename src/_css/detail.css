@@ -1,0 +1,79 @@
+.save-button{
+    margin: 0 auto;
+}
+.back-button{
+    margin: 20px 0px 0px 0px;
+    float: right;
+}
+.detail-outline{
+    min-width: 80%;
+    margin-bottom: 1rem;
+    background: white;
+    min-height: 90%;
+}
+
+.form-element, .form-element-inline {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.id-style{
+    text-align: center;
+    align-items: center;
+}
+
+.content-width{
+    height: 80%;
+    width: 80%;
+    text-align: left;
+    margin: 0 auto;
+}
+
+.regdate-style{
+    width: 100%;
+    text-align: right;
+    margin: 0px 180px 0px 0px;
+
+}
+.title-style {
+    margin: 0 auto;
+    text-align: center;
+
+}
+.thumbnail-style{
+    margin: 0 auto;
+}
+
+.keyword-style, .single-keyword{
+    text-align: center;
+    height: 20%;
+    display: flex;
+}
+.single-keyword{
+    display: inline;
+    float: none;
+    flex:1;
+    margin: 2px 3px 0px 3px;
+}
+
+
+ .justify-between {
+     justify-content: center;
+ }
+
+ .items-center {
+     align-items: center;
+ }
+
+ .flex-row {
+     flex-direction: row;
+ }
+
+ .flex {
+     display: flex;
+ }
+
+ .text-sm {
+     font-size: 5.0rem;
+ }
